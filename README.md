@@ -21,7 +21,7 @@ This repository contains a collection of python programming resources,including 
  - Basic Operations: Arithmetic Operations and their implementation in python.
  - Complex Data types :Explanation of complex numbers and operations associated with them.
  - Interview Questions : a collection of common Python interview questions focused on data types and their characteristics.
-# Key Featues
+# Key Features 
  - String Operations : Learn how to manipulate strings using various methods such as capitalize(),count(),find(),and more.
  - variable Types: Understand different variable types in python ,including integers ,floats,strings,lists,and dictionraies.
  - Arithmatic operations:Explore basic arithmatic operations and their syntax in python.
