@@ -47,7 +47,7 @@ This document provides an overview of various data structure available in python
 3. Sets
    Defintion :Unordered collections of unique items. Characterstics: No duplicate elements. Supports mathematical set operations ( Union , Intersection ). Use Cases: Membership testing , removing duplicate from a list
 4. Dictionaries
-   Definition : Unordered collections of key value pairs. Characterstics: keys must be unique and immutable. fast lookups,insertions,and deletions.Usecases:Storing data with a unique identifier,implementing associative arrays.
+   Definition : Unordered collections of key value pairs. Characterstics: keys must be unique and mutable. fast lookups,insertions,and deletions.Usecases:Storing data with a unique identifier,implementing associative arrays.
 # Conclusions 
 understanding these fundamental data structures is essentuial for effective programming in python. Each structure has its own strengths and weakness,making them suitable for different scenarios..
 # Getting Started 
