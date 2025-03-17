@@ -53,5 +53,3 @@ understanding these fundamental data structures is essentuial for effective prog
 # Getting Started 
 To get started with the resources in this repository:
  1.Clone the repository to your local machine.
-
- - 
